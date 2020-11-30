@@ -3,8 +3,8 @@ name: Virtual Icebreaker Games and Activities
 about: This template will be used to describe different virtual icebreaker games and
   activities .
 title: ''
-labels: trust in virtual teams, Work Culture, Virtual Team Tips, Covid Virtual Teams,
-  Virtual Icebreakers
+labels: Covid Virtual Teams, Virtual Icebreakers, Virtual Team Tips, Work Culture,
+  trust in virtual teams
 assignees: ''
 
 ---
